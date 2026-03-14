@@ -1,1 +1,2 @@
 Ovo je kreirano na GitHub
+Ovo je jedna izmena da isprobam git fetch
